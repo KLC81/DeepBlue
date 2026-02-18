@@ -1,0 +1,25 @@
+# STM32CubeIDE
+.project
+.cproject
+.settings/
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+*.a
